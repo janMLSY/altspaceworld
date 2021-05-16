@@ -1,0 +1,2 @@
+# altspaceworld
+My Altspace world
